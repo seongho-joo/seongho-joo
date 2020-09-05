@@ -3,6 +3,5 @@
 
 ### Online Judge &nbsp;💻
 * BOJ: [jsh8681](https://www.acmicpc.net/user/jsh8681)  
-  * solved.ac: [jsh8681](https://solved.ac/profile/jsh8681)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jsh8681)](https://solved.ac/jsh8681)  
