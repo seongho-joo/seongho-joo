@@ -1,6 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=seongHo-joo&fontSize=50)
-  
-<!--  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seongho-joo)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <p align="center"><strong> ⚒️ Tech Stack ⚒️ </strong></p>
 <p align="center">
@@ -24,7 +22,6 @@
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a> &nbsp;
 </p>
    
-<br>
 <br>
 <br>
 <p align="center">
