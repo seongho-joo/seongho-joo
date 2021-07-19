@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=seongHo-joo&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SeonghoJoo&fontSize=50)
 
 <p align="center"><strong> ⚒️ Tech Stack ⚒️ </strong></p>
 <p align="center">
