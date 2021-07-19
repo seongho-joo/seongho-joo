@@ -2,7 +2,7 @@
   
 <!--  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seongho-joo)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<p align="center"><strong> ⚒️ &nbsp; Tech Stack &nbsp; ⚒️ </strong></p>
+<p align="center"><strong> ⚒️ Tech Stack ⚒️ </strong></p>
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a> &nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp;
@@ -16,9 +16,11 @@
   <img src="https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=Apollo GraphQL&logoColor=white"/></a> &nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a> &nbsp;
 </p>
+<br>
 <p align="center"><strong> 👨🏻‍💻 I've used 👨🏻‍💻 </strong></p>
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> &nbsp; 
+  <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/></a> &nbsp;
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a> &nbsp;
 </p>
    
@@ -30,9 +32,3 @@
   <a href="mailto:seongho.dev@gmail.com"> <img src="https://img.shields.io/badge/seongho.dev@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=seongho.dev@gmail.com"> &nbsp;
   <a href="https://www.instagram.com/seon__g/"><img src="https://img.shields.io/badge/seon__g-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/seon__g/"/></a>
 </p>
-
-<!-- ### Online Judge &nbsp;💻
-* BOJ: [jsh8681](https://www.acmicpc.net/user/jsh8681)  
-
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jsh8681)](https://solved.ac/jsh8681)  
- -->
