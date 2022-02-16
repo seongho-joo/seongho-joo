@@ -27,7 +27,7 @@
 <br>
 <p align="center">
   <a href="https://seongho96.tistory.com"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square&logoColor=white&link=https://www.notion.so/Seongho-dev-6089b6cab72748888c0064a7dd58dc01"/></a>&nbsp;
-  <a href="https://www.notion.so/Seongho-dev-6089b6cab72748888c0064a7dd58dc01"><img src="https://img.shields.io/badge/resume-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Seongho-dev-6089b6cab72748888c0064a7dd58dc01"/></a>&nbsp;
+  <a href="https://thirsty-door-aa7.notion.site/Seongho-dev-6089b6cab72748888c0064a7dd58dc01"><img src="https://img.shields.io/badge/resume-000000?style=flat-square&logo=Notion&logoColor=white&link=https://thirsty-door-aa7.notion.site/Seongho-dev-6089b6cab72748888c0064a7dd58dc01"/></a>&nbsp;
   <a href="mailto:seongho.dev@gmail.com"> <img src="https://img.shields.io/badge/seongho.dev@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=seongho.dev@gmail.com"> &nbsp;
   <a href="https://www.instagram.com/seon__g/"><img src="https://img.shields.io/badge/seon__g-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/seon__g/"/></a>
     <br>
