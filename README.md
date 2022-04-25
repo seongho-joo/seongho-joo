@@ -8,8 +8,12 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a> &nbsp;
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp;
   <img src="https://img.shields.io/badge/ts-node-3178C6?style=flat-square&logo=ts-node&logoColor=white"/></a> &nbsp;
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a> &nbsp;
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a> &nbsp;
+
 </p>
 <p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp;
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white"/></a> &nbsp;
   <img src="https://img.shields.io/badge/GrpahQL-E434AA?style=flat-square&logo=GraphQL&logoColor=white"/></a> &nbsp;
   <img src="https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=Apollo GraphQL&logoColor=white"/></a> &nbsp;
@@ -18,9 +22,12 @@
 <br>
 <p align="center"><strong> 👨🏻‍💻 I've used 👨🏻‍💻 </strong></p>
 <p align="center">
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> &nbsp;
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> &nbsp; 
   <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/></a> &nbsp;
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a> &nbsp;
+  <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/></a> &nbsp;
+
 </p>
    
 <br>
@@ -29,7 +36,6 @@
   <a href="https://seongho96.tistory.com"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square&logoColor=white&link=https://www.notion.so/Seongho-dev-6089b6cab72748888c0064a7dd58dc01"/></a>&nbsp;
   <a href="https://thirsty-door-aa7.notion.site/Seongho-dev-6089b6cab72748888c0064a7dd58dc01"><img src="https://img.shields.io/badge/resume-000000?style=flat-square&logo=Notion&logoColor=white&link=https://thirsty-door-aa7.notion.site/Seongho-dev-6089b6cab72748888c0064a7dd58dc01"/></a>&nbsp;
   <a href="mailto:seongho.dev@gmail.com"> <img src="https://img.shields.io/badge/seongho.dev@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=seongho.dev@gmail.com"> &nbsp;
-  <a href="https://www.instagram.com/seon__g/"><img src="https://img.shields.io/badge/seon__g-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/seon__g/"/></a>
     <br>
       <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseongho-joo&count_bg=%233D94C8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> &nbsp;
 
