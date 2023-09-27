@@ -13,6 +13,8 @@
 
 </p>
 <p align="center">
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white"/></a> &nbsp;
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/></a> &nbsp;
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp;
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white"/></a> &nbsp;
   <img src="https://img.shields.io/badge/GrpahQL-E434AA?style=flat-square&logo=GraphQL&logoColor=white"/></a> &nbsp;
@@ -22,13 +24,20 @@
 <br>
 <p align="center"><strong> 👨🏻‍💻 I've used 👨🏻‍💻 </strong></p>
 <p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a> &nbsp;
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> &nbsp;
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> &nbsp; 
   <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/></a> &nbsp;
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a> &nbsp;
-  <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/></a> &nbsp;
-
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a> &nbsp;
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white"/></a> &nbsp;
+  <img src="https://img.shields.io/badge/AWS ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white"/></a> &nbsp;
+  <img src="https://img.shields.io/badge/AWS SQS-FF4F8B?style=flat-square&logo=amazonsqs&logoColor=white"/></a> &nbsp;
+  <img src="https://img.shields.io/badge/AWS SNS-DD344C?style=flat-square&logo=amazonsimpleemailservice&logoColor=white"/></a> &nbsp;
+  <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/></a> &nbsp;
+</p>
+
    
 <br>
 <br>
