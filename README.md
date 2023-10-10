@@ -43,7 +43,7 @@
 <br>
 <p align="center">
   <a href="https://seongho96.tistory.com"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square&logoColor=white&link=https://www.notion.so/Seongho-dev-6089b6cab72748888c0064a7dd58dc01"/></a>&nbsp;
-  <a href="https://thirsty-door-aa7.notion.site/Seongho-dev-6089b6cab72748888c0064a7dd58dc01"><img src="https://img.shields.io/badge/resume-000000?style=flat-square&logo=Notion&logoColor=white&link=https://thirsty-door-aa7.notion.site/Seongho-dev-6089b6cab72748888c0064a7dd58dc01"/></a>&nbsp;
+  <a href="https://thirsty-door-aa7.notion.site/Resume-6089b6cab72748888c0064a7dd58dc01?pvs=4"><img src="https://img.shields.io/badge/resume-000000?style=flat-square&logo=Notion&logoColor=white&link=https://thirsty-door-aa7.notion.site/Seongho-dev-6089b6cab72748888c0064a7dd58dc01"/></a>&nbsp;
   <a href="mailto:seongho.dev@gmail.com"> <img src="https://img.shields.io/badge/seongho.dev@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=seongho.dev@gmail.com"> &nbsp;
     <br>
       <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseongho-joo&count_bg=%233D94C8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> &nbsp;
